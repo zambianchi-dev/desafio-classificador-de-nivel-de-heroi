@@ -1,5 +1,5 @@
-let nameHero = "Spider-Man";
-let xpHero = 30000;
+let nameHero = "Spider-Man"; // Nome do herói. Altere esse valor para testar com diferentes nomes.
+let xpHero = 30000; // Aqui jaz a experiência do herói. Altere esse valor para testar os diferentes níveis.
 
 if (xpHero <= 1000) {
     console.log("O Herói de nome " + nameHero + " está no nível de Ferro");
